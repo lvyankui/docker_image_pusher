@@ -1,1 +1,1 @@
-flink:1.18.1
+aliyunemr/remote-shuffle-service:0.1.1-6badd20
