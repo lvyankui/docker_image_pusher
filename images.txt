@@ -1,1 +1,1 @@
-eclipse-temurin:8-jdk-focal
+spark:3.5.2
