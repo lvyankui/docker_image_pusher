@@ -1,1 +1,1 @@
-registry.k8s.io/metrics-server/metrics-server:v0.7.2
+docker.io/kindest/kindnetd:v20230330-48f316cd@sha256
