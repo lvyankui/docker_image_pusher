@@ -1,1 +1,1 @@
-docker.io/kindest/kindnetd:v20230330-48f316cd@sha256
+docker.io/kindest/kindnetd:v20230330-48f316cd
