@@ -1,1 +1,1 @@
-docker.io/kindest/kindnetd:v20230330-48f316cd
+registry.cn-beijing.aliyuncs.com/koordinator-sh/koordlet:v1.6.0
