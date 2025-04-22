@@ -1,1 +1,1 @@
-registry.cn-beijing.aliyuncs.com/koordinator-sh/koordlet:v1.6.0
+freeipa/freeipa-server
