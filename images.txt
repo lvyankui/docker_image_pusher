@@ -1,1 +1,1 @@
-selectdb/alpine:latest
+apache/doris:broker-2.1.8
