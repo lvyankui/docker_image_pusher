@@ -1,1 +1,1 @@
-k8s.gcr.io/sig-storage/csi-resizer:v1.4.0
+pytorch/pytorch:2.6.0-cuda12.4-cudnn9-runtime
