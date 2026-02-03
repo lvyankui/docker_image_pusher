@@ -1,1 +1,1 @@
-hiyouga/llamafactory:latest
+docker.io/liangjw/kube-webhook-certgen:v1.1.1
