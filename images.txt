@@ -1,1 +1,1 @@
-pytorch:resnet50
+docker pull projecthami/dcu-vgpu-device-plugin:v1.0.5
