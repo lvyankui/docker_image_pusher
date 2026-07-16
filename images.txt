@@ -1,1 +1,1 @@
-docker pull projecthami/dcu-vgpu-device-plugin:v1.0.5
+pytorch/pytorch:2.13.0-cuda12.6-cudnn9-runtime
