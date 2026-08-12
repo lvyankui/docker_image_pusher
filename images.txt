@@ -1,1 +1,2 @@
-pytorch/pytorch:2.13.0-cuda12.6-cudnn9-runtime
+ghcr.io/flannel-io/flannel-cni-plugin:v1.6.2-flannel1
+ghcr.io/flannel-io/flannel:v0.26.4
